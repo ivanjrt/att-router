@@ -16,8 +16,7 @@ Things that I know so far:
   
 - not only that, but sometimes all your devices will lose wifi even though is back online, you need to turn on/off your wifi slider on your device
 
-- There's no way in the router to add your own custom `DNS` apparently, this is their thing to watch, what you do,
-   unless of course, you bypass your DHCP or manually change your devices to point to it.
+- There's no way in the router to add your own custom `DNS` apparently, this is their thing to watch customers, unless of course, you bypass your DHCP or manually change your devices to point to it.
 
 - To open Ports, they only make available what they think one is going to use, but not docs on how to do your own.
 1. Step 1: find your device from the list that you want to open the ports for, get its name/ip -this is crucial
