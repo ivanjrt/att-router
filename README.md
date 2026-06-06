@@ -7,13 +7,12 @@ ps. Yes I'm also a network Engineer, and I found their GUI from the early 2000s
 Things that I know so far:
 - Its IP address is pointing to `192.168.1.254`, why?
   
-- It's DHCP starts delivering IPs past the `192.168.1.1-10` unless you manually change this
+- It's DHCP starts delivering IPs past the `192.168.1.1-10` -why?, unless you manually change this
   
 - The router needs to be restarted every noun then, even when it was just working few minutes ago.
 
 - There's an app that connects to your phone and tells you when a device has been connected to the network, that is really good
-  However, it also `scans` your devices for vulnerabilities, then it throws false positives and doesn't really give you any description on what found wrong
-  This is very annoying 
+  However, it also `scans` your devices for vulnerabilities, then it throws false positives and doesn't really give you any description on what found wrong - This is very annoying 
   
 - not only that, but sometimes all your devices will lose wifi even though is back online, you need to turn on/off your wifi slider on your device
 
